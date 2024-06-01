@@ -4,11 +4,11 @@ description = This is a pyQGIS plugin that can be further modified.
     Modification will be crucial later on as more functions are
     needed. Currently, this will allow the user to upload map data
     to be observed in various ways through pyQGIS, this description
-    will be update as the project advances.
+    will be updated as the project advances.
 about = Our current requirements require the observation of map
     features for data analysis purposes. This will ensure smoother
     integration into application formats if required later on.
 version = 1.0
 author = Ian C Philippi
 email = ianphilippi@gmail.com
-repository = 
+repository = github.com/Robiancp/Dev_Mon_pyQGIS_Plugin.git
